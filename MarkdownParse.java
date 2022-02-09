@@ -57,8 +57,8 @@ public class MarkdownParse {
 	    String contents = Files.readString(fileName);
         // System.out.println(contents);
         ArrayList<String> links = getLinks(contents);
-        System.out.println(links)
+        System.out.println(links);
 
-		//blah blah
+		//this is a change
     }
 }
