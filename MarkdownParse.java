@@ -59,6 +59,6 @@ public class MarkdownParse {
         ArrayList<String> links = getLinks(contents);
         System.out.println(links);
 
-		//this is a change
+		
     }
 }
